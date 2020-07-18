@@ -4,6 +4,9 @@ The sequence of stock price is a typical time series of data. Due to the cyclica
 # The origin of data
 The data used for the analysis is exported data from the DGideas financial database. For legal reasons, we can't provide the original data for analyze in this repository. But any time-correlated sequence should be able to analyzed in the same way.
 
+# Reference
+* [Deep Learning for Time Series Forecasting](https://machinelearningmastery.com/start-here/#deep_learning_time_series)
+
 # Easter-egg
 The name of the repository is a tribute to the Ubuntu 4.04 release(Warty Warthog).
 
